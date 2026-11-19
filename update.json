@@ -1,0 +1,7 @@
+{
+  "*": {
+    "version": "0.1.1",
+    "download_url": "https://raw.githubusercontent.com/Ehaic/pelican-server-filter-releases/main/releases/server-power-filter-0.1.1.zip",
+    "sha256": "d94d43d4c3aa087629517fa6040dc891380dc58d20183cf0aa22e692d3c77ab5"
+  }
+}
